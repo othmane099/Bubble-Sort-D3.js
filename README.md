@@ -1,5 +1,9 @@
 # Bubble Sort with D3js
 This app is created using [D3.js](https://d3js.org), it help us to visualize and understand bubble sort, with the possibility to control the sorting's speed which in ms.
+<br>
+<br>
+![Bubble Sort](https://live.staticflickr.com/65535/52377209078_8d35784c6c_c.jpg)
+
 
 
 ## Bubble Sort
